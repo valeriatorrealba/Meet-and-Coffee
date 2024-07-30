@@ -6,7 +6,7 @@ Meet & Coffee es un sitio web dedicado a promover charlas, eventos y simposios s
 
 A continuación, se muestra la imagen del resultado codificado:
 
-![meetandcoffe](assets/screenshot/Meet-and-Coffee)
+![meetandcoffe](assets/screenshot/Meet-and-Coffee.png)
 
 ## Descripción
 
