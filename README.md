@@ -28,7 +28,6 @@ El proyecto se compone de las siguientes secciones:
 - HTML5: Para la estructura del contenido.
 - CSS3: Para el diseño y estilos de la página.
 - Google Fonts: Para la tipografía de la página.
-- Bootstrap: Para la creación de un diseño responsivo y moderno.
 - Font Awesome: Para los iconos utilizados en el pie de página.
 
 ## Autor
