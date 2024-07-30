@@ -10,7 +10,7 @@ A continuación, se muestra la imagen del resultado codificado:
 
 ## Estructura del Proyecto
 
-La página está estructurada en varias secciones:
+El proyecto se compone de las siguientes secciones:
 
 - **Menú de Navegación (`<nav>`)**: Contiene enlaces a las diferentes secciones de la página, incluyendo Inicio, Ubicación, Próxima Charla, Eventos Anteriores y Contacto.
 - **Encabezado (`<header>`)**: Presenta el título y subtítulo principales de la página, destacando el tema de las charlas y eventos sobre tecnología.
