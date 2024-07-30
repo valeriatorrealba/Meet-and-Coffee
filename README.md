@@ -2,6 +2,10 @@
 
 Meet & Coffee es un sitio web dedicado a promover charlas, eventos y simposios sobre tecnología, donde los entusiastas pueden compartir sus conocimientos mientras disfrutan de una buena taza de café.
 
+## Descripción
+
+Este sitio está diseñado para promocionar y organizar charlas, eventos y simposios relacionados con la tecnología. Los visitantes pueden conocer la ubicación de los eventos, la próxima charla programada y explorar eventos pasados.
+
 ## Vista Codificada
 
 A continuación, se muestra la imagen del resultado codificado:
