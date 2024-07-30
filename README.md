@@ -20,6 +20,7 @@ El proyecto se compone de las siguientes secciones:
 - **Pie de Página (`<footer id="contacto">`)**: Contiene enlaces a las redes sociales y un mensaje de derechos reservados.
 
 ## Tecnologías Utilizadas
+
 - HTML5: Para la estructura del contenido.
 - CSS3: Para el diseño y estilos de la página.
 - Google Fonts: Para la tipografía de la página.
