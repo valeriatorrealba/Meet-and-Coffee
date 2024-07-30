@@ -8,7 +8,7 @@ A continuación, se muestra la imagen del resultado codificado:
 
 ![meetandcoffe](assets/screenshot/Meet-and-Coffee.png)
 
-## Descripción
+## Estructura del Proyecto
 
 La página está estructurada en varias secciones:
 
